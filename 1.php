@@ -32,7 +32,8 @@ Ameav_Admin");
         echo "<hr />";
         echo "<hr />";
         echo "<hr />";
-        
+        echo "<hr />";
+        echo "<hr />";
     }
 
  ?>
