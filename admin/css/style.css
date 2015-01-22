@@ -1,0 +1,58 @@
+body.templatemo-bg-gray { background-color: #eee; }
+.templatemo-bg-gray h1 {
+	color: rgb(74, 164, 180);
+}
+.margin-bottom-15 {
+	margin-bottom: 15px;
+}
+h1 {
+	font-weight: 300;
+	font-size: 36px;
+	line-height: normal;
+	margin: auto;
+	margin-top: 30px;
+	text-align: center;
+}
+.templatemo-create-new:hover {
+	color: #138892;
+	text-decoration: none;
+}
+.templatemo-create-new {
+	color: #58B4BB;
+	font-size: 18px;
+	font-weight: 300;
+}
+.templatemo-container {
+	background-color: rgba(255,255,255,0.8);
+	border: 1px solid #dedede;
+	border-radius: 8px;
+	margin: 0 auto;
+	padding: 30px 30px;
+}
+.templatemo-login-form {
+	max-width: 500px;
+}
+.control-wrapper {
+	position: relative;
+	padding-left: 30px;
+}
+.control-wrapper label.fa-label {
+	position: absolute;
+	left: 4px;
+	top: 6px;
+}
+.margin-bottom-30 {
+	margin-bottom: 30px;
+}
+.templatemo-bg-gray button, .templatemo-bg-gray p {
+	font-family: arial, 'Microsoft YaHei';
+}
+.form-group {
+	margin-bottom: 20px;
+}
+.padding-right-0 {
+	padding-right: 7.5px;
+}
+.margin-bottom-30 {
+	margin-bottom: 30px;
+}
