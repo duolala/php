@@ -29,6 +29,10 @@ Ameav_Admin");
         echo $row["AdminName"];
         echo "<hr />";
         echo $row["Password"];
+        echo "<hr />";
+        echo "<hr />";
+        echo "<hr />";
+        
     }
 
  ?>
